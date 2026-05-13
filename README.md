@@ -70,3 +70,6 @@ Products, collections, inventory, and orders are all managed through the Shopify
 - The variable names for .env could differ in actual code
 
 ---
+
+
+<!-- Force Redeploy -->
